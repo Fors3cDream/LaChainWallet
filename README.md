@@ -8,3 +8,5 @@ step2 - 下载truffle framework
 step3 - 删除build目录
 
 step4 - truffle migrate即可
+
+step5 - npm run dev即可启动
